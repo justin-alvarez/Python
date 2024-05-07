@@ -1,2 +1,1 @@
-"# Python" 
-"# Python" 
+This repository serves as a portfolio showcasing my Python skills for data analysis. Here, you'll find various projects utilizing libraries like pandas for data extraction, cleaning, and exploratory analysis. Each project demonstrates my ability to wrangle data and uncover insights through Python scripting.
